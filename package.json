@@ -1,4 +1,5 @@
 {
+  "homepage": "http://Meriem1551.github.io/My-portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -39,6 +40,5 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  },
-  "homepage":"http://Meriem1551.github.io/My-portfolio"
+  }
 }
