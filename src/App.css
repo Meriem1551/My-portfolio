@@ -1,17 +1,4 @@
-@font-face {
-  font-family: 'Pacifico-Regular';
-  src: url(E:\myWebSites\portfolio\public\fonts\Pacifico-Regular.ttf);
-}
-@font-face {
-  font-family:'MerriweatherSans' ;
-  src: url(E:\myWebSites\portfolio\public\fonts\MerriweatherSans-Italic-VariableFont_wght.ttf);
-}
-@font-face {
-  font-family: 'Lobster';
-  src: url(E:\myWebSites\portfolio\public\fonts\Lobster-Regular.ttf);
-}
-
-*{
+* {
   margin: 0;
   padding: 0;
 }
@@ -36,7 +23,6 @@ li{
 margin-top: 25px;
 margin-left: 50px;
 text-align: center;
-font-family: 'Lobster';
 font-size: 1.1rem;
 color:rgb(87, 197, 252);
 }
@@ -52,13 +38,11 @@ button{
   color: white;
   border: none;
   border-radius: 8px;
-  font-family:'MerriweatherSans' ;
 }
 button:hover{
   background-image: linear-gradient(45deg,rgb(240, 91, 254),rgb(151, 199, 248));
 }
 .logo{
-  font-family: 'Pacifico-Regular';
   margin-left: -35px;
   margin-top: 5px;
   font-size: 2.5rem;
@@ -112,7 +96,6 @@ button:hover{
 .About-me-container>.card>p{
   margin-left:50px;
   margin-top: 30px;
-  font-family: 'MerriweatherSans';
   line-height: 25px;
 }
 .image{
@@ -120,7 +103,6 @@ button:hover{
   margin-left: 50px;
 }
 h2{
-  font-family:'Pacifico-Regular' ;
   color: rgb(139, 23, 254);
 }
 @media (max-width: 550px){
@@ -172,7 +154,6 @@ h2{
   font-size: 2.5rem;
 }
 .card>h3{
-  font-family: 'MerriweatherSans';
   margin-left: 75px;
   margin-top: 20px;
   color: rgb(61, 4, 152);
@@ -180,7 +161,6 @@ h2{
 .card>p{
   margin-left:45px;
   margin-top: 20px;
-  font-family: 'MerriweatherSans';
   line-height: 23px;
   width: 270px;
 }
@@ -324,7 +304,6 @@ span{
 a{
   text-decoration: none;
   font-size: 1.5rem;
-  font-family:'MerriweatherSans' ;
   background-image: linear-gradient(45deg,rgb(103, 165, 248),rgb(179, 9, 247));
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -358,7 +337,6 @@ a{
   margin-left: -40px;
 }
 .footer>p{
-  font-family:'Lobster' ;
   font-size: 1.6rem;
   margin-top: 20px;
   margin-left: 593px;

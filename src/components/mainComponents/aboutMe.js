@@ -1,3 +1,5 @@
+import img from '../../images/undraw_personal_information_re_vw8a (1).svg';
+
 export default function AboutMe(){
     return (
         <div className="About-me-container">
@@ -11,7 +13,7 @@ export default function AboutMe(){
                     i'm passion about learning new technologies and tools. 
                 </p>
             </div>
-            <div className="image"><img width="85%" src="images/undraw_personal_information_re_vw8a (1).svg" alt="aboutMeImage"/></div>
+            <div className="image"><img width="85%" src={img} alt="aboutMeImage"/></div>
         </div>
     )
 
