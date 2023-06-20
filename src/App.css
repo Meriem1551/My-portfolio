@@ -55,20 +55,21 @@ button:hover{
   .nav-list{
     display: flex;
     gap:0px;
-    margin-left: 8px;
+    margin-left: -8px;
   }
   li{
   font-size: 14px;
-  margin-left: 20px;
+  margin-left: 10px;
   }
   button{
-    margin-left: -7px;
+    margin-left: -10px;
     width: 60px;
-    margin-top: -10px;
+    margin-top: -35px;
+    width: 50px;
   }
   .logo{
     margin-top: 10px;
-    margin-left: 12px;
+    margin-left: -3px;
     font-size: 1.7rem;
   }
   
@@ -179,7 +180,7 @@ span{
   .Services-container{
     position: absolute;
     top: 950px;
-    left: 100px;
+    left: 90px;
   }
   .service-Title{
     margin-left: 55px;
@@ -231,24 +232,25 @@ span{
   top: 1550px;
 }
 .tools-container>h2{
-  margin-left: 415px;
+  margin-left: 350px;
   font-size: 3rem;
 }
 .tools-list>ul{
   display: flex;
   list-style: none;
-  margin-left: -20px;
+  margin-left: -28px;
 }
 @media (max-width: 550px){
   .tools-container{
     position: absolute;
     top: 2580px;
+    left: -30px;
   }
   .tools-list>ul{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr ;
     grid-template-rows: 1fr 1fr 1fr;
-    margin-left: 105px;
+    margin-left: 95px;
   }
   .tools-container>h2{
     font-size: 2.3rem;
@@ -262,7 +264,7 @@ span{
 }
 .certificate-container>h2{
   font-size: 3.5rem;
-  margin-left: 460px;
+  margin-left: 420px;
   margin-top: 80px;
 }
 .certificate-list>ul{
@@ -281,7 +283,7 @@ span{
   }
   .certificate-container>h2{
     font-size: 2.7rem;
-    margin-left: 145px;
+    margin-left: 110px;
     margin-top: 100px;
   }
   .certificate-list>ul{
@@ -295,6 +297,7 @@ span{
 .projects-container{
   position: absolute;
   top: 2335px;
+  left: -40px;
 }
 .projects-container>h2{
   font-size: 3.2rem;
@@ -334,12 +337,12 @@ a{
   list-style: none;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  margin-left: -40px;
+  margin-left: -70px;
 }
 .footer>p{
   font-size: 1.6rem;
   margin-top: 20px;
-  margin-left: 593px;
+  margin-left: 580px;
 }
 @media (max-width: 550px){
   .footer{
@@ -347,11 +350,11 @@ a{
     height: 130px;
   }
   .socialMedia-container>ul>li{
-    margin-left: -115px;
+    margin-left: -75px;
   }
   .footer>p{
     position: relative;
-    left: -370px;
+    left: -360px;
     width: 100px;
   }
 }
