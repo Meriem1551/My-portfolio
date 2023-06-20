@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/My-portfolio/static/css/main.c7a59669.css",
+    "main.css": "/My-portfolio/static/css/main.e9cab13d.css",
     "main.js": "/My-portfolio/static/js/main.af3de0e0.js",
     "static/media/Introduction to JavaScript_certificate.jpg": "/My-portfolio/static/media/Introduction to JavaScript_certificate.5a77c1cebdad4ec445b7.jpg",
     "static/media/Introduction to HTML_certificate.jpg": "/My-portfolio/static/media/Introduction to HTML_certificate.354ca9bbf20adf7201c3.jpg",
@@ -23,11 +23,11 @@
     "static/media/icons8-dart.svg": "/My-portfolio/static/media/icons8-dart.199a45961bc0ea110531b91b573c7c82.svg",
     "static/media/icons8-html-48.svg": "/My-portfolio/static/media/icons8-html-48.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "static/media/logo-facebook.svg": "/My-portfolio/static/media/logo-facebook.6555562764c3d103f26762c808f8a357.svg",
-    "main.c7a59669.css.map": "/My-portfolio/static/css/main.c7a59669.css.map",
+    "main.e9cab13d.css.map": "/My-portfolio/static/css/main.e9cab13d.css.map",
     "main.af3de0e0.js.map": "/My-portfolio/static/js/main.af3de0e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7a59669.css",
+    "static/css/main.e9cab13d.css",
     "static/js/main.af3de0e0.js"
   ]
 }
