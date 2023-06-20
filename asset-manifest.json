@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/My-portfolio/static/css/main.c7a59669.css",
+    "main.js": "/My-portfolio/static/js/main.af3de0e0.js",
+    "static/media/Introduction to JavaScript_certificate.jpg": "/My-portfolio/static/media/Introduction to JavaScript_certificate.5a77c1cebdad4ec445b7.jpg",
+    "static/media/Introduction to HTML_certificate.jpg": "/My-portfolio/static/media/Introduction to HTML_certificate.354ca9bbf20adf7201c3.jpg",
+    "static/media/Introduction to CSS_certificate.jpg": "/My-portfolio/static/media/Introduction to CSS_certificate.e4b858c26ef7f8253bb3.jpg",
+    "static/media/Introduction to C_certificate (3).jpg": "/My-portfolio/static/media/Introduction to C_certificate (3).d2aca16bb0ae90abbd6b.jpg",
+    "static/media/undraw_web_development_0l6v.svg": "/My-portfolio/static/media/undraw_web_development_0l6v.888eb305762e11b8cdc3cf6dcc0ac8bf.svg",
+    "static/media/undraw_programmer_re_owql.svg": "/My-portfolio/static/media/undraw_programmer_re_owql.15dd09ebea3401311eca3a36ea11722b.svg",
+    "static/media/undraw_flutter_dev_wvqj.svg": "/My-portfolio/static/media/undraw_flutter_dev_wvqj.03329cf07638b255064eda6c50ae5fc5.svg",
+    "static/media/icons8-réagir.svg": "/My-portfolio/static/media/icons8-réagir.e7574af26628c8d8cc52d64e015eb898.svg",
+    "static/media/undraw_personal_information_re_vw8a (1).svg": "/My-portfolio/static/media/undraw_personal_information_re_vw8a (1).4a273af7fb91d0d6324b6b2f52d80971.svg",
+    "static/media/icons8-c-sharp-logo.svg": "/My-portfolio/static/media/icons8-c-sharp-logo.8043155e2bdecddb7661f1fecb380b5f.svg",
+    "static/media/icons8-js.svg": "/My-portfolio/static/media/icons8-js.aa17b7a345ae93056a398bba0f01b50c.svg",
+    "static/media/icons8-css.svg": "/My-portfolio/static/media/icons8-css.19cd0dec3a45c84933cf89413da68d3e.svg",
+    "static/media/icons8-node-js.svg": "/My-portfolio/static/media/icons8-node-js.b7d2308b16bd82b67987d0d1682f8e6b.svg",
+    "static/media/icons8-github.svg": "/My-portfolio/static/media/icons8-github.dc49a960a2d3c5a49c806f6188a7733b.svg",
+    "static/media/logo-whatsapp.svg": "/My-portfolio/static/media/logo-whatsapp.001c71e7748d8b38420e463a3b126901.svg",
+    "index.html": "/My-portfolio/index.html",
+    "static/media/icons8-git.svg": "/My-portfolio/static/media/icons8-git.aeeb13ab71f0fa41e8bb99688f96cfdd.svg",
+    "static/media/logo-instagram.svg": "/My-portfolio/static/media/logo-instagram.b15bc616029fa0ee5c09334bd2d75d12.svg",
+    "static/media/icons8-dart.svg": "/My-portfolio/static/media/icons8-dart.199a45961bc0ea110531b91b573c7c82.svg",
+    "static/media/icons8-html-48.svg": "/My-portfolio/static/media/icons8-html-48.c1bb84e022ca9d76984d4b943bd678fd.svg",
+    "static/media/logo-facebook.svg": "/My-portfolio/static/media/logo-facebook.6555562764c3d103f26762c808f8a357.svg",
+    "main.c7a59669.css.map": "/My-portfolio/static/css/main.c7a59669.css.map",
+    "main.af3de0e0.js.map": "/My-portfolio/static/js/main.af3de0e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7a59669.css",
+    "static/js/main.af3de0e0.js"
+  ]
+}
